@@ -120,3 +120,24 @@ html {
   position: absolute;
   opacity: 0;
 }
+
+.main {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgb(112, 103, 207);
+  padding: 20px 40px;
+}
+.main__content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.arrow {
+  width: 32px;
+}
+
+.arrow-input {
+  display: none;
+}

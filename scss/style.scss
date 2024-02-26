@@ -118,3 +118,25 @@ html {
 // fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
 // fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
 // fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgba(112, 103, 207, 1);
+    padding: 20px 40px;
+&__content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+}
+.arrow {
+    width: 32px;
+}
+.arrow-input {
+    display: none;
+}
+// fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
+// fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
+// fghdfghdfgndgndndtndtydtndtynedndndtyndtyntdntndtntyntyntnyntdntyn
